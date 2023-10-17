@@ -8,7 +8,7 @@ Features:
 4. Delete a user.
 5. Login user.
 6. Initiate chat Room.
-7. Recent coversations.
+7. Recent conversations.
 8. Get a chat by room ID.
 9. Send message
 10. Mark all messages as read.
@@ -16,7 +16,7 @@ Features:
 **Important step**
 
 Pre-requisities:
-1. Have NodeJS installed in your syste.
+1. Have NodeJS installed in your system.
 2. A code editor
 
 Steps to run this API
